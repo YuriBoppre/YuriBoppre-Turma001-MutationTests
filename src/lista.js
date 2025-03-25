@@ -20,4 +20,4 @@ class ListaDeCompras {
     }
 }
 
-module.exports = ListaDeCompras;
+module.exports = ListaDeCompras; 
