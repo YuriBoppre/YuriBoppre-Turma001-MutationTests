@@ -43,7 +43,7 @@ describe("Classe AnaliseDeDados", () => {
   });
 
   test("Calcular a moda dos valores fornecidos", async () => {
-    dados.adicionarDados([4], [5], [6], [7]);
+    dados.adicionarDados([4]);
 
     expect(dados.calcularVariancia()).toBe(1.25);
   });
